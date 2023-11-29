@@ -27,7 +27,7 @@ public class Colegiado2 {
         int p;
         int o;
         String s;
-        int cancion = 3;
+        int cancion = 10;
         
         int dur[] = new int[10];
         
